@@ -2,13 +2,20 @@ import './App.css';
 import { useEffect, useState } from 'react';
 import SingleCard from './components/SingleCard';
 
+import memo1 from './assets/memo1.png'
+import memo2 from './assets/memo2.png'
+import memo3 from './assets/memo3.png'
+import memo4 from './assets/memo4.png'
+import memo5 from './assets/memo5.png'
+import memo6 from './assets/memo6.png'
+
 const cardImages = [
-  { "src" : "/assets/memo1.png", matched: false },
-  { "src" : "/assets/memo2.png", matched: false },
-  { "src" : "/assets/memo3.png", matched: false },
-  { "src" : "/assets/memo4.png", matched: false },
-  { "src" : "/assets/memo5.png", matched: false },
-  { "src" : "/assets/memo6.png", matched: false },
+  { src : memo1, matched: false },
+  { src : memo2, matched: false },
+  { src : memo3, matched: false },
+  { src : memo4, matched: false },
+  { src : memo5, matched: false },
+  { src : memo6, matched: false },
 ]
 
 
