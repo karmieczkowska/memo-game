@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memo-game/static/css/main.bb495dac.css",
+    "main.js": "/memo-game/static/js/main.324445cf.js",
+    "index.html": "/memo-game/index.html",
+    "main.bb495dac.css.map": "/memo-game/static/css/main.bb495dac.css.map",
+    "main.324445cf.js.map": "/memo-game/static/js/main.324445cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb495dac.css",
+    "static/js/main.324445cf.js"
+  ]
+}
