@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/memo-game/static/css/main.63682909.css",
-    "main.js": "/memo-game/static/js/main.f923cf5c.js",
+    "main.css": "/memo-game/static/css/main.841c6c14.css",
+    "main.js": "/memo-game/static/js/main.ca1ea642.js",
+    "static/media/memo6.png": "/memo-game/static/media/memo6.f9d7ebd521090c30d32f.png",
+    "static/media/memo5.png": "/memo-game/static/media/memo5.f05a38837777f79e194a.png",
+    "static/media/memo4.png": "/memo-game/static/media/memo4.200e426f3b2723e5c596.png",
+    "static/media/memo3.png": "/memo-game/static/media/memo3.73d1d56529f80a9d0204.png",
     "index.html": "/memo-game/index.html",
-    "main.63682909.css.map": "/memo-game/static/css/main.63682909.css.map",
-    "main.f923cf5c.js.map": "/memo-game/static/js/main.f923cf5c.js.map"
+    "main.841c6c14.css.map": "/memo-game/static/css/main.841c6c14.css.map",
+    "main.ca1ea642.js.map": "/memo-game/static/js/main.ca1ea642.js.map"
   },
   "entrypoints": [
-    "static/css/main.63682909.css",
-    "static/js/main.f923cf5c.js"
+    "static/css/main.841c6c14.css",
+    "static/js/main.ca1ea642.js"
   ]
 }
